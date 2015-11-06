@@ -1,6 +1,6 @@
 # glob-concat
 
-Node utility that merge a list of globs or files into a single unique list.
+Node utility for merging a list of globs or files into a single unique list.
 
 Rougly equivalent to the bash command: `find . -name '<pattern>' -or -name '<pattern>' ...`.
 
