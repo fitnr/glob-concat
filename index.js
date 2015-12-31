@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-'use strict'
+'use strict';
 
 // Copyright 2015 Neil Freeman
 // This program is free software: you can redistribute it and/or modify

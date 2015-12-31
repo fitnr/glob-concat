@@ -1,6 +1,6 @@
 {
   "name": "glob-concat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Merge a mixed list of files and globs into a list of files.",
   "main": "index.js",
   "scripts": {
